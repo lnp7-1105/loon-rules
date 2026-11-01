@@ -1,0 +1,76 @@
+# > 腾讯 (微信、微信输入法、QQ、腾讯云)
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,wxgateway.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,wechatpay.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,3g.qq.com
+DOMAIN-SUFFIX,neixin.cn
+
+# > 阿里与蚂蚁集团 (淘宝、闲鱼、支付宝、高德)
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibabachengdun.com
+
+# > 字节跳动 (抖音、穿山甲广告、火山引擎、汽水音乐)
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+
+# > 美团与大众点评
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,sankuai.com
+
+# > Apple 国内直连服务
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,digicert.cn
+
+# > 微软国内直连服务
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+
+# > 移动认证与推送通道
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,dcloud.net.cn
+
+# > 生活服务与三方接口
+DOMAIN-SUFFIX,qiekj.com
+DOMAIN-SUFFIX,mxbc.net
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,zhishustar.com
