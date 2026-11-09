@@ -70,6 +70,8 @@ DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,zhishustar.com
 
 # > 从 new 合并的新增规则
+DOMAIN,emby.381617.xyz
+DOMAIN,embyt.381617.xyz
 DOMAIN-SUFFIX,1000coco.com
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,139.com
