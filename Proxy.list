@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,frankfurter.dev
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,91taopian.com
 DOMAIN,djlzvy5xcvhxt.cloudfront.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,1drv.com
 
 # > 自建站点、个人博客与抓包小众域名
 DOMAIN-SUFFIX,22112211.xyz
