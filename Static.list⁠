@@ -1,0 +1,26 @@
+# > 交易所与跨境金融
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,wise.com
+
+# > 社交媒体 (Meta / X / LinkedIn / Line)
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,line.me
+
+# > 游戏、社区、流媒体与电商后台
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steam.tv
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,shopify.com
