@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,yidianlingyi.cn
+DOMAIN-SUFFIX,qqmail.com
 
 # > 阿里与蚂蚁集团 (淘宝、闲鱼、支付宝、高德、钉钉、优酷)
 DOMAIN-SUFFIX,alibaba.com
@@ -96,6 +97,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,dailygn.com
 
 # > 百度、网易与科技大厂
 DOMAIN-SUFFIX,baidu.com
@@ -106,6 +108,9 @@ DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,livehwc3.cn
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,wpscdn.cn
 
 # > 社交、影音与内容平台 (B站、小红书、快手、酷安)
 DOMAIN-SUFFIX,bilibili.com
@@ -121,6 +126,7 @@ DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,agora.io
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,xhslink.cn
+DOMAIN-SUFFIX,bilistatic.cn
 
 # > 电商、支付与金融银行
 DOMAIN-SUFFIX,jd.com
@@ -155,6 +161,8 @@ DOMAIN-SUFFIX,ujinbi.com
 DOMAIN-SUFFIX,tjjt360.com
 DOMAIN-SUFFIX,changyoyo.com
 DOMAIN-SUFFIX,ylhsh.cn
+DOMAIN-SUFFIX,abchina.com.cn
+DOMAIN-SUFFIX,pbpay.com.cn
 
 # > 美团、餐饮茶饮与生活出行
 DOMAIN-SUFFIX,meituan.com
@@ -184,6 +192,12 @@ DOMAIN-SUFFIX,xqshare.com
 DOMAIN-SUFFIX,jielong.com
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,51downapp.cn
+DOMAIN-SUFFIX,17usoft.com
+DOMAIN-SUFFIX,bosszhipin.com
+DOMAIN-SUFFIX,elong.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,pipi.cn
+DOMAIN-SUFFIX,zhipin.com
 
 # > Apple、微软、Google 国内服务与账号直连
 DOMAIN-SUFFIX,apple.com
@@ -271,6 +285,7 @@ DOMAIN-SUFFIX,zjzwfw.gov.cn
 DOMAIN-SUFFIX,zj.gov.cn
 DOMAIN-SUFFIX,mobisoft.com.cn
 DOMAIN-SUFFIX,usho.cn
+DOMAIN-SUFFIX,122.gov.cn
 
 # > 网络工具、DNS、IP 查询与 CDN 节点
 DOMAIN-SUFFIX,doh.pub
@@ -296,6 +311,17 @@ DOMAIN-SUFFIX,jspcdn.cn
 DOMAIN-SUFFIX,hbttl.cn
 DOMAIN-SUFFIX,norglo.cn
 DOMAIN-SUFFIX,qtaeixd.com
+DOMAIN-SUFFIX,bjmxy.net
+DOMAIN-SUFFIX,cjjd14.com
+DOMAIN-SUFFIX,guangxunsd.com
+DOMAIN-SUFFIX,ksyungslb.com
+DOMAIN-SUFFIX,manlaxycloud.com
+DOMAIN-SUFFIX,mountaintoys.cn
+DOMAIN-SUFFIX,ntjiake.cn
+DOMAIN-SUFFIX,qnqcdn.net
+DOMAIN-SUFFIX,ruyon.cn
+DOMAIN-SUFFIX,wuchuyun.com
+DOMAIN-SUFFIX,z1cdn.com
 
 # > App 归因、统计监控与风控 SDK
 DOMAIN-SUFFIX,umeng.com
@@ -320,6 +346,7 @@ DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,ugsdk.cn
 DOMAIN-SUFFIX,zhishustar.com
+DOMAIN-SUFFIX,chaitin.cn
 
 # > 自建服务与抓包补充域名
 DOMAIN,emby.381617.xyz
@@ -342,3 +369,7 @@ DOMAIN-SUFFIX,yingt.fun
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,iledshow.cn
 DOMAIN,sjc.a1.381617.xyz
+DOMAIN-SUFFIX,381617.xyz
+DOMAIN-SUFFIX,in-neo.cn
+DOMAIN-SUFFIX,luntek.com.cn
+DOMAIN-SUFFIX,ogmua.cn
