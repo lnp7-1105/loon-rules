@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cfapi.workers.dev
 DOMAIN-SUFFIX,cfapi.net
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ipfinal.com
 
 # > 站长社区、免费图床与 VPS 商家
 DOMAIN-SUFFIX,nodeseek.com
@@ -53,12 +54,13 @@ DOMAIN-SUFFIX,hos7.com
 DOMAIN-SUFFIX,idcvm.com
 DOMAIN-SUFFIX,monitor-themes.pages.dev
 DOMAIN-SUFFIX,ava.hosting
-DOMAIN-SUFFIX,explo.cc
 DOMAIN-SUFFIX,legendvps.com
 DOMAIN-SUFFIX,lowend.cloud
 DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,psychz.net
 DOMAIN-SUFFIX,vpshostingservice.co
+DOMAIN-SUFFIX,lightlayer.cn
+DOMAIN,cloudflare-imgbed-3uc.pages.dev
 
 # > 开发、效率、媒体与特定 CDN
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
@@ -111,6 +113,7 @@ DOMAIN-SUFFIX,getxbot.work
 DOMAIN-SUFFIX,freecarrierlookup.com
 DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,run.app
+DOMAIN-SUFFIX,api.aws
 
 # > 自建站点、个人博客与抓包小众域名
 DOMAIN-SUFFIX,22112211.xyz
@@ -146,14 +149,11 @@ DOMAIN-SUFFIX,zhanghao66.com
 DOMAIN-SUFFIX,modeldial.com
 DOMAIN-SUFFIX,aitreez.com
 DOMAIN-SUFFIX,ai666.io
-DOMAIN-SUFFIX,ipfinal.com
 DOMAIN,rucu6.pages.dev
 DOMAIN,newtonquan-yusi.pages.dev
 DOMAIN,vvvv.66660511.xyz
-DOMAIN,monitor.381617.xyz
-DOMAIN,sub.381617.xyz
 DOMAIN-SUFFIX,262020.xyz
-DOMAIN,cloudflare-imgbed-3uc.pages.dev
+DOMAIN-SUFFIX,explo.cc
 DOMAIN-SUFFIX,ka8.ai
 DOMAIN,ns-drop-k7m4x9.pages.dev
 DOMAIN-SUFFIX,origmiart.uk

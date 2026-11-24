@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,agora.io
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,xhslink.cn
 DOMAIN-SUFFIX,bilistatic.cn
+DOMAIN-SUFFIX,pipi.cn
 
 # > 电商、支付与金融银行
 DOMAIN-SUFFIX,jd.com
@@ -196,7 +197,6 @@ DOMAIN-SUFFIX,17usoft.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,elong.com
 DOMAIN-SUFFIX,maoyan.com
-DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,zhipin.com
 
 # > Apple、微软、Google 国内服务与账号直连
@@ -212,7 +212,6 @@ DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,googleapis.cn
@@ -286,6 +285,7 @@ DOMAIN-SUFFIX,zj.gov.cn
 DOMAIN-SUFFIX,mobisoft.com.cn
 DOMAIN-SUFFIX,usho.cn
 DOMAIN-SUFFIX,122.gov.cn
+DOMAIN-SUFFIX,globalsign.com
 
 # > 网络工具、DNS、IP 查询与 CDN 节点
 DOMAIN-SUFFIX,doh.pub
@@ -295,7 +295,6 @@ DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,dittocdn.com
 DOMAIN-SUFFIX,ydycdn.com
 DOMAIN-SUFFIX,zcidclink.com
@@ -349,9 +348,7 @@ DOMAIN-SUFFIX,zhishustar.com
 DOMAIN-SUFFIX,chaitin.cn
 
 # > 自建服务与抓包补充域名
-DOMAIN,emby.381617.xyz
-DOMAIN,embyt.381617.xyz
-DOMAIN-SUFFIX,lightlayer.cn
+DOMAIN-SUFFIX,381617.xyz
 DOMAIN-SUFFIX,comfylink.com
 DOMAIN-SUFFIX,floatingislandapps.com
 DOMAIN-SUFFIX,gxcould.com
@@ -368,8 +365,6 @@ DOMAIN-SUFFIX,xinqiucc.com
 DOMAIN-SUFFIX,yingt.fun
 DOMAIN-SUFFIX,zztfly.com
 DOMAIN-SUFFIX,iledshow.cn
-DOMAIN,sjc.a1.381617.xyz
-DOMAIN-SUFFIX,381617.xyz
 DOMAIN-SUFFIX,in-neo.cn
 DOMAIN-SUFFIX,luntek.com.cn
 DOMAIN-SUFFIX,ogmua.cn
