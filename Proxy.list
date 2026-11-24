@@ -52,6 +52,13 @@ DOMAIN-SUFFIX,pickmyvps.com
 DOMAIN-SUFFIX,hos7.com
 DOMAIN-SUFFIX,idcvm.com
 DOMAIN-SUFFIX,monitor-themes.pages.dev
+DOMAIN-SUFFIX,ava.hosting
+DOMAIN-SUFFIX,explo.cc
+DOMAIN-SUFFIX,legendvps.com
+DOMAIN-SUFFIX,lowend.cloud
+DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,psychz.net
+DOMAIN-SUFFIX,vpshostingservice.co
 
 # > 开发、效率、媒体与特定 CDN
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
@@ -101,6 +108,9 @@ DOMAIN-SUFFIX,pse.is
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,getxbot.com
 DOMAIN-SUFFIX,getxbot.work
+DOMAIN-SUFFIX,freecarrierlookup.com
+DOMAIN-SUFFIX,livechatinc.com
+DOMAIN-SUFFIX,run.app
 
 # > 自建站点、个人博客与抓包小众域名
 DOMAIN-SUFFIX,22112211.xyz
@@ -142,6 +152,16 @@ DOMAIN,newtonquan-yusi.pages.dev
 DOMAIN,vvvv.66660511.xyz
 DOMAIN,monitor.381617.xyz
 DOMAIN,sub.381617.xyz
+DOMAIN-SUFFIX,262020.xyz
+DOMAIN,cloudflare-imgbed-3uc.pages.dev
+DOMAIN-SUFFIX,ka8.ai
+DOMAIN,ns-drop-k7m4x9.pages.dev
+DOMAIN-SUFFIX,origmiart.uk
+DOMAIN-SUFFIX,qzz.io
+DOMAIN-SUFFIX,usemarkt.xyz
+DOMAIN-SUFFIX,wnluo.com
+DOMAIN-SUFFIX,xiaola.de
+DOMAIN-SUFFIX,zze.cc
 
 # > App 归因追踪与崩溃监控 SDK
 DOMAIN-SUFFIX,adjust.com
@@ -155,3 +175,5 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,commander1.com
+DOMAIN-SUFFIX,adtrafficquality.google
+DOMAIN-SUFFIX,googleadservices.com
