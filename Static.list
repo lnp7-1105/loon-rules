@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,roogoo.com
 DOMAIN-SUFFIX,roogoo.shop
 DOMAIN-SUFFIX,roogoo.online
+DOMAIN-SUFFIX,paypalobjects.com
 
 # > 社交媒体 (Meta / X / LinkedIn / Line)
 DOMAIN-SUFFIX,instagram.com
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,facebook.net
 
 # > 游戏、社区、流媒体与电商后台
 DOMAIN-SUFFIX,steampowered.com
@@ -39,6 +41,8 @@ DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokminis.us
+DOMAIN-SUFFIX,devvit.net
+DOMAIN-SUFFIX,redditspace.com
 
 # > AI 大模型与防风控 (OpenAI / Claude / Grok)
 DOMAIN-SUFFIX,openai.com
