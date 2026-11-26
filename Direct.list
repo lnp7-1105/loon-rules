@@ -347,8 +347,9 @@ DOMAIN-SUFFIX,ugsdk.cn
 DOMAIN-SUFFIX,zhishustar.com
 DOMAIN-SUFFIX,chaitin.cn
 
-# > 自建服务与抓包补充域名
-DOMAIN-SUFFIX,381617.xyz
+# > 自建服务与抓包补充域
+DOMAIN,emby.381617.xyz
+DOMAIN,embyt.381617.xyz
 DOMAIN-SUFFIX,comfylink.com
 DOMAIN-SUFFIX,floatingislandapps.com
 DOMAIN-SUFFIX,gxcould.com
